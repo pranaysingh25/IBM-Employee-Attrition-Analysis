@@ -3,5 +3,5 @@
 
 > Created a systematic ML pipeline along with EDA and Feature Engineering on an unbalanced dataset with 35 parameters.
 
-Predictive Model: XGBoostingClassifier
+> Predictive Model: XGBoostingClassifier.
 Results: Precision - 84%
